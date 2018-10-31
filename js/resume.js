@@ -6,7 +6,7 @@ function viewModel() {
     this.phone = "804-325-0176";
     this.email = "alistayeh@gmail.com";
     this.github = "github.com/a-tayeh";
-    this.website = ""
+    this.website = "https://a-tayeh.github.io/resume/"
 
     this.sections = [{
             header: ["Employment & Volunteering"],

@@ -66,7 +66,7 @@ Decorators can be applied to subsections to link out to webpages, and provide so
 ```js
 decorators: {
   icon: "github",
-  url: "https://github.com/jonaylor89/resume"
+  url: "https://github.com/a-tayeh/resume"
 }
 ```
 

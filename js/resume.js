@@ -33,7 +33,7 @@ function viewModel() {
                     bullets: [
                         "Ensure that proper assets are up to date",
                         "Apply frequent updates to the yml file",
-                        "Update meeting times and events to provide more acurate representation of current ramdev activities"
+                        "Update meeting times and events to provide more accurate representation of current ramdev activities"
                     ]
                 },
                 {
@@ -106,7 +106,7 @@ function viewModel() {
                 },
 
                 {
-                    noPrint: true,
+                    noPrint: false,
                     decorators: {
                         icon: "github",
                         url: "https://github.com/a-tayeh/MadMauss"
@@ -131,7 +131,7 @@ function viewModel() {
             ]
         },
         {
-            noPrint: true,
+            noPrint: false,
             header: ["Clubs and Volunteering"],
             subsections: [{
                     header: [
@@ -139,7 +139,7 @@ function viewModel() {
                         "Fall 2018 - Present"
                     ],
                     bullets: [
-                        "Discuss the new trends of securing a network efficienty",
+                        "Discuss the new trends of securing a network efficiently",
                     ]
                 },
                 {

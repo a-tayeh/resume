@@ -14,7 +14,18 @@ function viewModel() {
                 {
                     header: [
                         "VCU College of Engineering, Richmond, VA",
-                        "Computer Science Teacher Assistant",
+                        "Research Assistant",
+                        "Spring 2019-Present"
+                    ],
+                    bullets: [
+                        "Use virtual machine introspection(VMI) to read memeory contents from a target virtual machine and libVMI API to write to memeory.",
+                        "Set up the environments on lab computers using xen hypervisor on ubuntu integrated with libvmi to prepare other students interested in cyber security to experiment basic level of hacking."
+                    ]
+                },
+                {
+                    header: [
+                        "VCU College of Engineering, Richmond, VA",
+                        "Teacher Assistant",
                         "Fall 2018-Present"
                     ],
                     bullets: [
@@ -48,18 +59,7 @@ function viewModel() {
                         "Provide well written coding documentation to enhance the overall clarity of the code functionality"
                     ]
                 }
-                ,{
-                    header: [
-                      "Richmond, VA",
-                        "Target",
-                        "11/2015-Present"
-                    ],
-                    bullets: [
-                        "Electronics",[
-                            "Educate customers on using latest available technology and provide technical solutions to their issues"
-                        ]
-                    ]
-                }
+                ,
             ]
         },
         {
@@ -132,39 +132,15 @@ function viewModel() {
         },
         {
             noPrint: false,
-            header: ["Clubs and Volunteering"],
+            header: ["Programming Langauges and Skills"],
             subsections: [{
                     header: [
-                        "CyberSec @ VCU",
-                        "Fall 2018 - Present"
+                        "Java, Python, C, JavaScript, Git, HTML, CSS, Bash, and mongoDB",
+ 
                     ],
-                    bullets: [
-                        "Discuss the new trends of securing a network efficiently",
-                    ]
+                    
                 },
-                {
-                    header: [
-                        "The Linux Club",
-                        "Summer 2018 - Present"
-                    ],
-                    bullets: [
-                        "Engage in activities that include the history of linux, its various uses in network and cyber security,"+ 
-                        "and discuss the functionality of different linux distros",
-                        
-                    ]
-                },
-                {
-                    header: [
-                        "RamDev",
-                        "Fall 2018 - Present"
-                    ],
-                    bullets: [
-                        "Participate in weekly meetings to learn and prepare for the ACM Programming Contest"
-
-
-
-                    ]
-                },
+             
 
             ]
         }

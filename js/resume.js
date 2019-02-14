@@ -125,15 +125,15 @@ function viewModel() {
                  noPrint: false,
                     decorators: {
                         icon: "github",
-                        url: "https://github.com/a-tayeh/MadMauss"
+                        url: "https://github.com/a-tayeh/CoffeeRun"
                     },
                     header: [
-                        "MadMauss",
-                        "Fall 2017"
+                        "CoffeeRun",
+                        "Fall 2018"
                     ],
                     bullets: [
-                        "A project that managed to get me a spot for an apprenticeship at MaxxPotential",[
-                            "Built with NodeJS and uses ExpressJS,MongoDB,PassportJS, Google's reCAPTCHA and many more! "
+                        "An android game where a student is tasked with consuming as many coffee cups as possible on their way to class! ",[
+                            "Built with android studio using libGDX framework to handle the physics of the game. "
                         ]
                     ]    
                     

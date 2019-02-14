@@ -106,23 +106,7 @@ function viewModel() {
                 },
 
                 {
-                    noPrint: false,
-                    decorators: {
-                        icon: "github",
-                        url: "https://github.com/a-tayeh/MadMauss"
-                    },
-                    header: [
-                        "MadMauss",
-                        "Fall 2017"
-                    ],
-                    bullets: [
-                        "A project that managed to get me a spot for an apprenticeship at MaxxPotential",[
-                            "Built with NodeJS and uses ExpressJS,MongoDB,PassportJS, Google's reCAPTCHA and many more! "
-                        ]
-                    ]
-                },
-                {
-                 noPrint: false,
+                noPrint: false,
                     decorators: {
                         icon: "github",
                         url: "https://github.com/a-tayeh/CoffeeRun"
@@ -135,7 +119,25 @@ function viewModel() {
                         "An android game where a student is tasked with consuming as many coffee cups as possible on their way to class! ",[
                             "Built with android studio using libGDX framework to handle the physics of the game. "
                         ]
-                    ]    
+                    ]
+                
+                },
+                {
+                 
+                  noPrint: false,
+                    decorators: {
+                        icon: "github",
+                        url: "https://github.com/a-tayeh/MadMauss"
+                    },
+                    header: [
+                        "MadMauss",
+                        "Fall 2017"
+                    ],
+                    bullets: [
+                        "A project that managed to get me a spot for an apprenticeship at MaxxPotential",[
+                            "Built with NodeJS and uses ExpressJS,MongoDB,PassportJS, Google's reCAPTCHA and many more! "
+                        ]
+                    ]        
                     
                 },
                 { 

@@ -122,7 +122,20 @@ function viewModel() {
                     ]
                 },
                 {
-                
+                 noPrint: false,
+                    decorators: {
+                        icon: "github",
+                        url: "https://github.com/a-tayeh/MadMauss"
+                    },
+                    header: [
+                        "MadMauss",
+                        "Fall 2017"
+                    ],
+                    bullets: [
+                        "A project that managed to get me a spot for an apprenticeship at MaxxPotential",[
+                            "Built with NodeJS and uses ExpressJS,MongoDB,PassportJS, Google's reCAPTCHA and many more! "
+                        ]
+                    ]    
                     
                 },
                 { 

@@ -35,6 +35,7 @@ function viewModel() {
                         ],
                     ]
                 },
+
                 {
                     header: [
                         "Richmond, VA",
@@ -71,7 +72,7 @@ function viewModel() {
                         "Expected Graduation: May 2020"
                     ],
                     bullets: [
-                        "Junior studying Computer Science with a minor in mathematics",
+                        "Senior studying Computer Science with a minor in mathematics",
                         "Seeking a cyber security certification by the time of my graduation(may/2020)"
                     ],
 
